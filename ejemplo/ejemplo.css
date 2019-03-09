@@ -1,0 +1,31 @@
+h1{
+    font-size: 40px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: bisque;
+    margin-top: 20px;
+}
+li:nth-child(2n){
+    color: rgb(223, 31, 31);
+}
+/*li:nth-child(odd){
+    color: rgb(255, 247, 247);
+}*/
+body{
+    background-color: rgb(24, 21, 21);
+}
+ul{
+    font-size: 30px;
+    list-style-type: none;
+    padding: 20px;
+}
+li{
+    padding: 15px;
+    margin: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    border-bottom: 5px dashed black;
+}
+li:hover{
+    border-bottom: 5px dashed green ;
+}

@@ -1,0 +1,32 @@
+#photo{
+    width:150px;
+    height: 150px;
+    border-radius: 90%;
+    margin-top: 60px;
+    margin-left: 10px;
+    box-shadow: rgb(116, 55, 55) 8px 8px 10px;;
+}
+#cabeza{
+    font-size: 25px;
+    margin-left:30px;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+nav{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    border-top: 2px dashed rgb(146, 109, 109);
+}
+#izq{
+    background-color: rgb(251, 255, 254);
+    box-shadow: rgb(189, 172, 172) 8px 8px 10px;
+    width: 300px;
+    height: 700px;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15;
+}
+#style{
+    list-style-type: none;
+}
